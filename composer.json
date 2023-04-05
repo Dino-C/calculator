@@ -1,0 +1,19 @@
+{
+    "name": "katharinadehn/calculator",
+    "description": "This is a calculator",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Katharinadehn\\Calculator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dehn, Katharina",
+            "email": "k.dehn@trio-group.de"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
